@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Exercise-Folder-Contents-Toggle/static/css/main.e90a9ddc.chunk.css",
+    "main.js": "/Exercise-Folder-Contents-Toggle/static/js/main.78f872e4.chunk.js",
+    "main.js.map": "/Exercise-Folder-Contents-Toggle/static/js/main.78f872e4.chunk.js.map",
+    "runtime-main.js": "/Exercise-Folder-Contents-Toggle/static/js/runtime-main.5ec8046e.js",
+    "runtime-main.js.map": "/Exercise-Folder-Contents-Toggle/static/js/runtime-main.5ec8046e.js.map",
+    "static/js/2.855ca7a4.chunk.js": "/Exercise-Folder-Contents-Toggle/static/js/2.855ca7a4.chunk.js",
+    "static/js/2.855ca7a4.chunk.js.map": "/Exercise-Folder-Contents-Toggle/static/js/2.855ca7a4.chunk.js.map",
+    "index.html": "/Exercise-Folder-Contents-Toggle/index.html",
+    "precache-manifest.79be93af997d9b9cc6d07588f29d9282.js": "/Exercise-Folder-Contents-Toggle/precache-manifest.79be93af997d9b9cc6d07588f29d9282.js",
+    "service-worker.js": "/Exercise-Folder-Contents-Toggle/service-worker.js",
+    "static/css/main.e90a9ddc.chunk.css.map": "/Exercise-Folder-Contents-Toggle/static/css/main.e90a9ddc.chunk.css.map",
+    "static/js/2.855ca7a4.chunk.js.LICENSE.txt": "/Exercise-Folder-Contents-Toggle/static/js/2.855ca7a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ec8046e.js",
+    "static/js/2.855ca7a4.chunk.js",
+    "static/css/main.e90a9ddc.chunk.css",
+    "static/js/main.78f872e4.chunk.js"
+  ]
+}
